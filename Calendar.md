@@ -17,8 +17,8 @@
 </tr>
 <tr>
 	<td valign="top"> 2 </td>
-	<td valign="top"><a href="week_2_detail.md">Jan 29 <br> <br> </a>Color, opacity, gradients <br> Curves <br> BeginShape() EndShape() <br>Comments <br> variables <br></td>
-    <td valign="top"><a href="week_2_detail.md">Jan 31</a><br><strong><br>Last Day to Add/Drop a class is Feb 4<br> Turning in Assignments</strong>
+	<td valign="top"><a href="week_2_detail.md">Jan 29 <br></a>Color, opacity, gradients <br> Curves <br> BeginShape() EndShape() <br>Comments <br> variables <br></td>
+    <td valign="top"><a href="week_2_detail.md">Jan 31</a><strong><br>Last Day to Add/Drop a class is Feb 4<br> Turning in Assignments</strong>
 	Comments<br>
     println()<br>
 	Variables (Review)<br>
@@ -47,7 +47,7 @@
 
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">Feb 21</a>Note: No Classes on February 19<br>Matrix Transformations <br> 
+	<td valign="top"><strong>Note: No Classes on February 19</strong><br><a href="week_5_detail.md">Feb 21</a><br>Matrix Transformations <br> 
 	More Intro to p5.js<br> 
 	Sketch 3 launched<br>
 </td>
@@ -91,14 +91,14 @@
 	<td>SPRING BREAK</td></tr>
 <tr>
 <td>8 (cont.)</td>
-	<td valign="top"><a href="week_8_detail.md">March 25</a><br>
+	<td valign="top"><a href="week_8_detail.md">March 25</a><br><td></td>
 	<strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> </td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">March 27</a>	<strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> 
+	<td valign="top"><a href="week_9_detail.md">March 27</a><br><strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> 
 	</td>
-	<td valign="top"><a href="week_9_detail.md">April 1</a>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">April 1</a><br>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment  Due 18:00 </a><br>
 		Complete Refinements to Midterm Project 1 </a><br>
 	</td>
