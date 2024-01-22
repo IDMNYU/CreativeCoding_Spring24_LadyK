@@ -90,8 +90,8 @@
 	</td>
 	<td>SPRING BREAK</td></tr>
 <tr>
-<td>8 (cont.)</td>
-	<td valign="top"><a href="week_8_detail.md">March 25</a><br><td></td><td>
+<td>8 (cont.)</td><td></td>
+	<td valign="top"><a href="week_8_detail.md">March 25</a><br>
 	<strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> </td>
 </tr>
 <tr>
