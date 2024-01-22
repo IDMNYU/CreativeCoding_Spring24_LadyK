@@ -60,6 +60,7 @@
   <td valign="top">do</td>
 	<!-- day Tues -->
  	<td valign ="top"> 
+ 		<li>Read the Letters From The Last Cohort (beginning) found in Slack and write a reflection regarding what you have taken from them regarding your own work. Send me the reflection via a Slack Direct Message</li>
  	<a href = "Sketch_2.md">Sketch 2</a><br>
  	</td>
   	<!-- day Thurs -->
