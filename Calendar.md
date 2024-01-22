@@ -84,14 +84,14 @@
 	</td>
 	<td></td></tr>
 	<tr>
-<td>YAY</td>
+<td>YAY!</td>
 	<td valign="top">March 18 - 22<br> 
 	SPRING BREAK
 	</td>
 	<td>SPRING BREAK</td></tr>
 <tr>
 <td>8 (cont.)</td>
-	<td valign="top"><a href="week_8_detail.md">March 25</a><br><td></td>
+	<td valign="top"><a href="week_8_detail.md">March 25</a><br><td></td><td>
 	<strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> </td>
 </tr>
 <tr>
