@@ -14,7 +14,20 @@ Take a meaty crop of Julie Mehretu's painting - _A Renegade Excavation_. See Sla
 
 You are to recreate this crop in Processing, using the methods of creating shapes and colors. Your sketch must be 800 by 800 pixels and showcase a variety of shapes, lines, colors, and thicknesses.
 
+I am looking to see how well you understand:
+
+- screen coordinates
+- shapes
+- creating different shapes in a number of ways - layering, begin/end shape, building shapes with other shapes
+- color
+- opacity
+- layering
+- your strategies on creating difficult shapes
+- how well your eye sees the many layers of this painting.
+
 Recommendations: Do not do this in one sitting. Take breaks. Work on this in several sessions (and not the night before it's due).
+
+Send me your Mehretu crop via Slack Direct Message.
 
 
 #### Key aspects:
