@@ -7,8 +7,8 @@
 <table>
 <tr>
 	<th width="4%">Week</th> 
-	<th width="48%">Monday</th> 
 	<th width="48%">Wednesday</th> 
+	<th width="48%">Monday</th> 
 </tr>
 <tr>
 	<td valign="top">1</td>
@@ -39,7 +39,7 @@
 	Functions + passing parameters<br>
 	</td>
 	<td valign="top"><a href="week_4_detail.md">Feb 14</a><br>
-	Intro to P5 <br> 
+	State Machines <br> 
 	Manipulation of for-loops<br>
 	Code & Different strategies<br>
 	</td>
@@ -48,59 +48,58 @@
 <tr>
 	<td>5</td>
 	<td valign="top"><strong>Note: No Classes on February 19</strong><br><a href="week_5_detail.md">Feb 21</a><br>Matrix Transformations <br> 
-	More Intro to p5.js<br> 
-	Sketch 3 launched<br>
+	Intro to p5.js<br> 
 </td>
 	<td valign="top"><a href="week_5_detail.md">Feb 26</a><br>
+		P5.js setup review <br>
 		Object Orientated Programming <br>
-		In-class Challenge<br>
 		<a href = "MidTermProject.md"> MidTerm Project </a> Announced <br>
 	</td>
 </tr>
 <tr>
 	<td> 6 </td>
-	<td valign="top"><a href="week_6_detail.md">Feb 28</a><br>Arrays
+	<td valign="top"><a href="week_6_detail.md">Feb 28</a><br>Arrays <br>
 		OOP <br>
 		Methods <br>
-		Strategies for coding <br>
-	 <a href = "MidTermProject.md"> Work on Project 1 </a> <br>
-        Push your progress to your GitHub repo</td>
 	<td valign="top"><a href="week_6_detail.md">March 4</a><br>  <br>
-	<a href = "MidTermProject.mdd"> Work on Project 1 </a> <br>
-        Push your progress to your GitHub repo </td>
+	<a href = "MidTermProject.mdd"> Work on Midterm</a> <br>
+         </td>
 </tr>
 <tr>
 	<td> 7 </td>
-	<td valign="top"><a href="week_7_detail.md">March 6</a><br>In class challenges <br><a href = "MidTermProject.md"> Work on Midterm Project 1 </a> <br>
+	<td valign="top"><a href="week_7_detail.md">March 6</a><br>Github <br>In class challenges <br><a href = "MidTermProject.md"> Work on Midterm Project  </a> <br>
         Push your progress to your GitHub repo </td>
 	<td valign = "top"> <a href="week_7_detail.md">March 11</a><br> Class Assignments <br>
-	<a href = "MidTermProject.md"> Work on Midterm Project 1 </a> <br>
+	<a href = "MidTermProject.md"> Work on Midterm Project  </a> <br>
         Push your progress to your GitHub repo </td>
 </tr>
 <tr>
 <td>8</td>
 	<td valign="top"><a href="week_8_detail.md">March 13</a><br> 
-	Class assignments
+	Strategies for coding <br>
+	Review State Machine <br>
+	Debugging Strategies<br>
+	Intro: Sound, Computer Vision, Video, P5 Play library, P5 Speech library<br>
 	</td>
 	<td></td></tr>
 	<tr>
 <td>YAY!</td>
 	<td valign="top">March 18 - 22<br> 
-	SPRING BREAK
+	SPRING BREAK - take a break!
 	</td>
-	<td>SPRING BREAK</td></tr>
+	<td>SPRING BREAK - take a break!</td></tr>
 <tr>
 <td>8 (cont.)</td><td></td>
 	<td valign="top"><a href="week_8_detail.md">March 25</a><br>
-	<strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> </td>
+	<strong>**MidTerm Presentations** <br>Midterm Project Feedback <br></strong> </td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">March 27</a><br><strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> 
+	<td valign="top"><a href="week_9_detail.md">March 27</a><br><strong>**MidTerm Presentations** <br>Midterm Project Feedback <br></strong> 
 	</td>
 	<td valign="top"><a href="week_9_detail.md">April 1</a><br>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment  Due 18:00 </a><br>
-		Complete Refinements to Midterm Project 1 </a><br>
+		Complete Refinements to Midterm Project </a><br>
 	</td>
 </tr>
 <tr>
@@ -116,9 +115,11 @@
 </tr>
 <tr>
 	<td>11</td>
-	<td valign="top">April 10<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>	
+	<td valign="top">April 10<br><a href = "RoundTable.md"> <strong> Roundtable Presentations for Final Projects</a></strong> <br>
+	<a href = "Sketch_4.md"> Work on Sketch 4 </a><br>	
 	</td>
-	<td valign="top">April 15<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>
+	<td valign="top">April 15<br><a href = "RoundTable.md"> <strong> Roundtable Presentations for Final Projects</a></strong> <br>
+		<a href = "Sketch_4.md"> Work on Sketch 4 </a><br>
 	</td>
 </tr>
 <tr>
@@ -128,10 +129,11 @@
 	</td>
 	<td valign="top">April 22<br>Topics by request (Generative code, ML, Camera tracking, etc)<br>
 		<a href = "Final_Project.md">Work on Final Project</a> <br>
+		Last Day to withdraw - April 23rd<br>
 	</td>
 </tr>
 <tr>	
-	<td>13</td><td valign="top">April 24<br> Last Day to withdrawl <br>
+	<td>13</td><td valign="top">April 24<br> 
 	Topics by request<br></strong>	
 	<a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>

@@ -1,7 +1,7 @@
 # DM-UY 1133-A Creative Coding
 ##### Spring 2024 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
 
-####  Due  ...
+####  Due  April 16th 23:59 
 
 #### Sketch 4: Text & Image
 
