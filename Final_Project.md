@@ -6,7 +6,7 @@
 
 ## Dates: 
 
-### Working Prototype Due: April 24th
+### Working Prototype Due: ~~April 24th~~ April 29th
 ### May 1st & May 6th in class presentations
 ### Alpha Version Due: May 10 12:00 (sharp) EST via openProcessing && your github repo for the project 
 
